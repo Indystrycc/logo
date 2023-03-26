@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="278.06299mm"
+   height="37.586868mm"
+   viewBox="0 0 985.26256 133.18182"
    id="svg3462"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -54,7 +54,7 @@
      id="layer1">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.61891699px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.098211,942.16772 0,0 8.408192,-12.41759 0.357549,-0.20628 7.339055,12.71181 -15.75311,0 -4.771071,8.26344 24.689084,0 6.097223,10.56072 -36.029792,0 -5.446217,9.43343 46.559574,0 6.033712,10.45071 -58.434471,0 -7.414039,12.84136 71.86416,0 8.09476,14.02038 -86.672373,0 -7.824533,13.5525 100.466276,0 8.56862,14.8416 -113.738366,0 -11.6829855,11.6829 0,-126.91288 135.2247415,0 0,129.55688 -136.51112174,-0.4535"
+       d="m 61.098213,22.98736 v 0 l 8.408192,-12.41759 0.357549,-0.20628 7.339055,12.71181 h -15.75311 l -4.771071,8.26344 h 24.689084 l 6.097223,10.56072 H 51.435343 l -5.446217,9.43343 H 92.5487 L 98.582412,61.7836 H 40.147941 l -7.414039,12.84136 h 71.864158 l 8.09476,14.02038 H 26.020449 l -7.824533,13.5525 H 118.66219 l 8.56862,14.8416 H 13.492446 L 1.80946,128.72234 V 1.80946 H 137.0342 V 131.36634 L 0.52307979,130.91284"
        id="path4348-9-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
@@ -62,13 +62,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:144.75668335px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="162.0282"
-       y="1040.1749"
+       y="120.99457"
        id="text4136-6-7-1-8-7-8-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138-0-3-0-6-9-8-7"
          x="162.0282"
-         y="1040.1749"
+         y="120.99457"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:System;-inkscape-font-specification:System"><tspan
    style="font-weight:bold"
    id="tspan4206-8-7-4-9-5">INDY</tspan>STRY</tspan></text>
@@ -76,13 +76,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:91.00839996px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="876.50763"
-       y="1039.6404"
+       y="120.46002"
        id="text4142-6-9-5-4-3-5-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4144-0-0-17-2-4-3-7"
          x="876.50763"
-         y="1039.6404"
+         y="120.46002"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:System;-inkscape-font-specification:System">.cc</tspan></text>
   </g>
 </svg>
